@@ -13,11 +13,13 @@ export default function Pagina() {
     return (
         <div>
             <div>
-                <Contador />
+                < Capslock>
+                    <Contador />
+                </ Capslock>
             </div>
             <hr />
             <div>
-                < Capslock>texto</ Capslock>
+
             </div>
 
         </div>
