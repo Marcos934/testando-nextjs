@@ -13,13 +13,11 @@ export default function Pagina() {
     return (
         <div>
             <div>
-                < Capslock>
-                    <Contador />
-                </ Capslock>
+                <Contador />
             </div>
             <hr />
             <div>
-
+                < Capslock>Apenas para incrementar +1 ou decrementar -1</ Capslock>
             </div>
 
         </div>
